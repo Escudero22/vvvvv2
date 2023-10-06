@@ -9,6 +9,7 @@ public class AnimationCh : MonoBehaviour
     private Rigidbody2D _rb;
     private SpriteRenderer _sr;
     private AudioSource _as;
+    private bool gravedadInvertida = false;
 
     // Start is called before the first frame update
     void Awake()
@@ -18,10 +19,11 @@ public class AnimationCh : MonoBehaviour
         _rb = GetComponent<Rigidbody2D>();
         _sr = GetComponent<SpriteRenderer>();
         _as = GetComponent<AudioSource>();
-    }
 
-    // Update is called once per frame
-    void Update()
+}
+
+// Update is called once per frame
+void Update()
     {
         //Personaje se mueve a la derecha
         if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
@@ -49,6 +51,28 @@ public class AnimationCh : MonoBehaviour
         {
             _rb.velocity = Vector2.zero;
             _animator.SetBool("secorre", false);
+
+        }
+        //personaje se mueve hacia arriba
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            gravedadInvertida = !gravedadInvertida;
+            if (gravedadInvertida)
+            {
+                // Cambiar la gravedad hacia abajo
+                _rb.gravityScale = 1;
+                _sr.flipY = false;
+
+            }
+            else
+            {
+                // Cambiar la gravedad hacia arriba
+                _rb.gravityScale = -1;
+                _sr.flipY=true;
+
+
+            }
+
 
         }
     }
