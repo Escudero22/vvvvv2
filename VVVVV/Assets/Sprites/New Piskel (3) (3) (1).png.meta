@@ -126,10 +126,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 12672
-        width: 3168
-        height: 3168
+        x: 584
+        y: 12859
+        width: 1802
+        height: 2002
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,10 +147,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_1
       rect:
         serializedVersion: 2
-        x: 3168
-        y: 12672
-        width: 3168
-        height: 3168
+        x: 3856
+        y: 12859
+        width: 1693
+        height: 2002
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,10 +168,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_2
       rect:
         serializedVersion: 2
-        x: 6336
-        y: 12672
-        width: 3168
-        height: 3168
+        x: 7120
+        y: 12859
+        width: 1600
+        height: 2002
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,10 +189,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_3
       rect:
         serializedVersion: 2
-        x: 9504
-        y: 12672
-        width: 3168
-        height: 3168
+        x: 10291
+        y: 12859
+        width: 1600
+        height: 2002
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,10 +210,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_4
       rect:
         serializedVersion: 2
-        x: 12672
-        y: 12672
-        width: 3168
-        height: 3168
+        x: 13454
+        y: 12859
+        width: 1601
+        height: 2002
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,10 +231,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 9504
-        width: 3168
-        height: 3168
+        x: 785
+        y: 9695
+        width: 1601
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,10 +252,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_6
       rect:
         serializedVersion: 2
-        x: 3168
-        y: 9504
-        width: 3168
-        height: 3168
+        x: 3949
+        y: 9695
+        width: 1600
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,10 +273,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_7
       rect:
         serializedVersion: 2
-        x: 6336
-        y: 9504
-        width: 3168
-        height: 3168
+        x: 7120
+        y: 9695
+        width: 1600
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,10 +294,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_8
       rect:
         serializedVersion: 2
-        x: 9504
-        y: 9504
-        width: 3168
-        height: 3168
+        x: 10190
+        y: 9695
+        width: 1701
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,10 +315,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_9
       rect:
         serializedVersion: 2
-        x: 12672
-        y: 9504
-        width: 3168
-        height: 3168
+        x: 13354
+        y: 9695
+        width: 1701
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -336,10 +336,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 6336
-        width: 3168
-        height: 3168
+        x: 685
+        y: 6524
+        width: 1701
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -357,10 +357,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_11
       rect:
         serializedVersion: 2
-        x: 3168
-        y: 6336
-        width: 3168
-        height: 3168
+        x: 3755
+        y: 6524
+        width: 1995
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -378,10 +378,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_12
       rect:
         serializedVersion: 2
-        x: 6336
-        y: 6336
-        width: 3168
-        height: 3168
+        x: 6919
+        y: 6524
+        width: 2095
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,10 +399,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_13
       rect:
         serializedVersion: 2
-        x: 9504
-        y: 6336
-        width: 3168
-        height: 3168
+        x: 10090
+        y: 6524
+        width: 1995
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -420,10 +420,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_14
       rect:
         serializedVersion: 2
-        x: 12672
-        y: 6336
-        width: 3168
-        height: 3168
+        x: 13261
+        y: 6524
+        width: 1894
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -441,10 +441,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_15
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3168
-        width: 3168
-        height: 3168
+        x: 685
+        y: 3361
+        width: 1701
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,10 +462,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_16
       rect:
         serializedVersion: 2
-        x: 3168
-        y: 3168
-        width: 3168
-        height: 3168
+        x: 3949
+        y: 3361
+        width: 1600
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -483,10 +483,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_17
       rect:
         serializedVersion: 2
-        x: 6336
-        y: 3168
-        width: 3168
-        height: 3168
+        x: 7120
+        y: 3361
+        width: 1600
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -504,10 +504,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_18
       rect:
         serializedVersion: 2
-        x: 9504
-        y: 3168
-        width: 3168
-        height: 3168
+        x: 10291
+        y: 3361
+        width: 1600
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -525,10 +525,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_19
       rect:
         serializedVersion: 2
-        x: 12672
-        y: 3168
-        width: 3168
-        height: 3168
+        x: 13454
+        y: 3361
+        width: 1601
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,10 +546,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_20
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 3168
-        height: 3168
+        x: 785
+        y: 190
+        width: 1601
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -567,10 +567,10 @@ TextureImporter:
       name: New Piskel (3) (3) (1)_21
       rect:
         serializedVersion: 2
-        x: 3168
-        y: 0
-        width: 3168
-        height: 3168
+        x: 3856
+        y: 190
+        width: 1693
+        height: 1995
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
