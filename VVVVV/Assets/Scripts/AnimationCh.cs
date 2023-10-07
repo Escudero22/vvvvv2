@@ -60,14 +60,14 @@ void Update()
             if (gravedadInvertida)
             {
                 // Cambiar la gravedad hacia abajo
-                _rb.gravityScale = 1;
+                _rb.gravityScale = 5;
                 _sr.flipY = false;
 
             }
             else
             {
                 // Cambiar la gravedad hacia arriba
-                _rb.gravityScale = -1;
+                _rb.gravityScale = -5;
                 _sr.flipY=true;
 
 
