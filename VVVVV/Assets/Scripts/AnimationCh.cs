@@ -28,7 +28,7 @@ void Update()
         //Personaje se mueve a la derecha
         if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
         {
-            _rb.velocity = new Vector2(7, 0);
+            _rb.velocity = new Vector2(10, 0);
             _animator.SetBool("secorre", true);
             _sr.flipX = false;
 
@@ -42,7 +42,7 @@ void Update()
         //Personaje se mueve a la izquierda
         if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A))
         {
-            _rb.velocity = new Vector2(-7, 0);
+            _rb.velocity = new Vector2(-10, 0);
             _sr.flipX = true;
             _animator.SetBool("secorre", true);
 
