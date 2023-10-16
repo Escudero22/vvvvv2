@@ -17,7 +17,9 @@ public class GameManager : MonoBehaviour
             GameObject emptyObject = GameObject.Find("Empty");
             if (emptyObject != null)
             {
-                player.position = emptyObject.transform.position;
+                Vector3 emptyPosition = emptyObject.transform.position;
+                // Solo ajusta la coordenada X del jugador
+                player.position = new Vector3(emptyPosition.x, player.position.y, player.position.z);
             }
             else
             {
@@ -32,7 +34,7 @@ public class GameManager : MonoBehaviour
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
 
-            if ((SceneManager.GetActiveScene().buildIndex-1) == 1)
+            if ((SceneManager.GetActiveScene().buildIndex - 1) == 1)
             {
                 Debug.Log("objeto destruido");
                 // Si estamos en la escena 1, destruye el objeto jugador
@@ -44,7 +46,11 @@ public class GameManager : MonoBehaviour
                 GameObject emptyObject = GameObject.Find("Empty2");
                 if (emptyObject != null)
                 {
-                    player.position = emptyObject.transform.position;
+
+                    Vector3 emptyPosition = emptyObject.transform.position;
+                    // Solo ajusta la coordenada X del jugador
+                    player.position = new Vector3(emptyPosition.x, player.position.y, player.position.z);
+
                 }
                 else
                 {
@@ -56,5 +62,5 @@ public class GameManager : MonoBehaviour
         }
 
     }
-    
+
 }
