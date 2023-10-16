@@ -11,6 +11,7 @@ public class AnimationCh : MonoBehaviour
     private AudioSource _as;
     private bool gravedadInvertida = false;
 
+
     // Start is called before the first frame update
     void Awake()
     {
@@ -53,8 +54,9 @@ void Update()
             _animator.SetBool("secorre", false);
 
         }
-        //personaje se mueve hacia arriba
-        if (Input.GetKeyDown(KeyCode.Space))
+
+        // Verifica si el personaje está en el suelo o el techo para cambiar la gravedad
+        if (Input.GetKeyDown(KeyCode.Space) )
         {
             gravedadInvertida = !gravedadInvertida;
             if (gravedadInvertida)
@@ -62,18 +64,13 @@ void Update()
                 // Cambiar la gravedad hacia abajo
                 _rb.gravityScale = 5;
                 _sr.flipY = false;
-
             }
             else
             {
                 // Cambiar la gravedad hacia arriba
                 _rb.gravityScale = -5;
-                _sr.flipY=true;
-
-
+                _sr.flipY = true;
             }
-
-
         }
     }
 }
