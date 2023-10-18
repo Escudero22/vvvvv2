@@ -22,10 +22,10 @@ public class AnimationCh : MonoBehaviour
         _sr = GetComponent<SpriteRenderer>();
         _as = GetComponent<AudioSource>();
 
-}
+    }
 
-// Update is called once per frame
-void Update()
+    // Update is called once per frame
+    void Update()
     {
         //Personaje se mueve a la derecha
         if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
@@ -55,8 +55,21 @@ void Update()
             _animator.SetBool("secorre", false);
         }
 
+        if (_rb.velocity.y == 0)
+        {
+            SwitchGravity();
+        }
+        // Detectar la tecla "Escape" para cargar la escena de pausa
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            // Cargar la escena de pausa (asegúrate de que la escena "Pausa" esté en la compilación)
+            SceneManager.LoadScene("Pausa");
+        }
+    }
+    void SwitchGravity()
+    {
         // Verifica si el personaje está en el suelo o el techo para cambiar la gravedad
-        if (Input.GetKeyDown(KeyCode.Space) )
+        if (Input.GetKeyDown(KeyCode.Space))
         {
             gravedadInvertida = !gravedadInvertida;
             if (gravedadInvertida)
@@ -71,12 +84,6 @@ void Update()
                 _rb.gravityScale = -8;
                 _sr.flipY = true;
             }
-        }
-        // Detectar la tecla "Escape" para cargar la escena de pausa
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            // Cargar la escena de pausa (asegúrate de que la escena "Pausa" esté en la compilación)
-            SceneManager.LoadScene("Pausa");
         }
     }
 }
