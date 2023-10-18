@@ -9,6 +9,8 @@ TagManager:
   - ReturnLevel
   - position
   - Empty
+  - pinchos
+  - NextLevelUp
   layers:
   - Default
   - TransparentFX

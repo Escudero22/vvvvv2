@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 30
+  spritePixelsToUnits: 20
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -114,9 +114,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 316
-        width: 32
-        height: 32
+        y: 305
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,10 +134,10 @@ TextureImporter:
       name: miscellaneous_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 316
-        width: 32
-        height: 32
+        x: 43
+        y: 305
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,10 +155,10 @@ TextureImporter:
       name: miscellaneous_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 316
-        width: 32
-        height: 32
+        x: 86
+        y: 305
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,10 +176,10 @@ TextureImporter:
       name: miscellaneous_3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 316
-        width: 32
-        height: 32
+        x: 129
+        y: 305
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,10 +197,10 @@ TextureImporter:
       name: miscellaneous_4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 316
-        width: 32
-        height: 32
+        x: 172
+        y: 305
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,10 +218,10 @@ TextureImporter:
       name: miscellaneous_5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 316
-        width: 32
-        height: 32
+        x: 215
+        y: 305
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -239,10 +239,10 @@ TextureImporter:
       name: miscellaneous_6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 316
-        width: 32
-        height: 32
+        x: 258
+        y: 305
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,10 +260,10 @@ TextureImporter:
       name: miscellaneous_7
       rect:
         serializedVersion: 2
-        x: 224
-        y: 316
-        width: 32
-        height: 32
+        x: 301
+        y: 305
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,10 +281,10 @@ TextureImporter:
       name: miscellaneous_8
       rect:
         serializedVersion: 2
-        x: 256
-        y: 316
-        width: 32
-        height: 32
+        x: 344
+        y: 305
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,10 +302,10 @@ TextureImporter:
       name: miscellaneous_9
       rect:
         serializedVersion: 2
-        x: 288
-        y: 316
-        width: 32
-        height: 32
+        x: 387
+        y: 305
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -323,10 +323,10 @@ TextureImporter:
       name: miscellaneous_10
       rect:
         serializedVersion: 2
-        x: 320
-        y: 316
-        width: 32
-        height: 32
+        x: 430
+        y: 305
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: miscellaneous_11
       rect:
         serializedVersion: 2
-        x: 352
-        y: 316
-        width: 32
-        height: 32
+        x: 473
+        y: 305
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,10 +365,10 @@ TextureImporter:
       name: miscellaneous_12
       rect:
         serializedVersion: 2
-        x: 384
-        y: 316
-        width: 32
-        height: 32
+        x: 516
+        y: 305
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,10 +386,10 @@ TextureImporter:
       name: miscellaneous_13
       rect:
         serializedVersion: 2
-        x: 416
-        y: 316
-        width: 32
-        height: 32
+        x: 0
+        y: 262
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -407,10 +407,10 @@ TextureImporter:
       name: miscellaneous_14
       rect:
         serializedVersion: 2
-        x: 448
-        y: 316
-        width: 32
-        height: 32
+        x: 43
+        y: 262
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +428,10 @@ TextureImporter:
       name: miscellaneous_15
       rect:
         serializedVersion: 2
-        x: 480
-        y: 316
-        width: 32
-        height: 32
+        x: 86
+        y: 262
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -449,10 +449,10 @@ TextureImporter:
       name: miscellaneous_16
       rect:
         serializedVersion: 2
-        x: 512
-        y: 316
-        width: 32
-        height: 32
+        x: 129
+        y: 262
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +470,10 @@ TextureImporter:
       name: miscellaneous_17
       rect:
         serializedVersion: 2
-        x: 0
-        y: 284
-        width: 32
-        height: 32
+        x: 172
+        y: 262
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -491,10 +491,10 @@ TextureImporter:
       name: miscellaneous_18
       rect:
         serializedVersion: 2
-        x: 32
-        y: 284
-        width: 32
-        height: 32
+        x: 215
+        y: 262
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -512,10 +512,10 @@ TextureImporter:
       name: miscellaneous_19
       rect:
         serializedVersion: 2
-        x: 64
-        y: 284
-        width: 32
-        height: 32
+        x: 516
+        y: 262
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -533,10 +533,10 @@ TextureImporter:
       name: miscellaneous_20
       rect:
         serializedVersion: 2
-        x: 96
-        y: 284
-        width: 32
-        height: 32
+        x: 559
+        y: 262
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -554,10 +554,10 @@ TextureImporter:
       name: miscellaneous_21
       rect:
         serializedVersion: 2
-        x: 128
-        y: 284
-        width: 32
-        height: 32
+        x: 602
+        y: 262
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -575,10 +575,10 @@ TextureImporter:
       name: miscellaneous_22
       rect:
         serializedVersion: 2
-        x: 160
-        y: 284
-        width: 32
-        height: 32
+        x: 0
+        y: 219
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -596,10 +596,10 @@ TextureImporter:
       name: miscellaneous_23
       rect:
         serializedVersion: 2
-        x: 192
-        y: 284
-        width: 32
-        height: 32
+        x: 43
+        y: 219
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -617,10 +617,10 @@ TextureImporter:
       name: miscellaneous_24
       rect:
         serializedVersion: 2
-        x: 224
-        y: 284
-        width: 32
-        height: 32
+        x: 86
+        y: 219
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -638,10 +638,10 @@ TextureImporter:
       name: miscellaneous_25
       rect:
         serializedVersion: 2
-        x: 384
-        y: 284
-        width: 32
-        height: 32
+        x: 172
+        y: 219
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -659,10 +659,10 @@ TextureImporter:
       name: miscellaneous_26
       rect:
         serializedVersion: 2
-        x: 416
-        y: 284
-        width: 32
-        height: 32
+        x: 215
+        y: 219
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -680,10 +680,10 @@ TextureImporter:
       name: miscellaneous_27
       rect:
         serializedVersion: 2
-        x: 448
-        y: 284
-        width: 32
-        height: 32
+        x: 258
+        y: 219
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -701,10 +701,10 @@ TextureImporter:
       name: miscellaneous_28
       rect:
         serializedVersion: 2
-        x: 480
-        y: 284
-        width: 32
-        height: 32
+        x: 473
+        y: 219
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -722,10 +722,10 @@ TextureImporter:
       name: miscellaneous_29
       rect:
         serializedVersion: 2
-        x: 512
-        y: 284
-        width: 32
-        height: 32
+        x: 516
+        y: 219
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -743,10 +743,10 @@ TextureImporter:
       name: miscellaneous_30
       rect:
         serializedVersion: 2
-        x: 0
-        y: 252
-        width: 32
-        height: 32
+        x: 559
+        y: 219
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -764,10 +764,10 @@ TextureImporter:
       name: miscellaneous_31
       rect:
         serializedVersion: 2
-        x: 32
-        y: 252
-        width: 32
-        height: 32
+        x: 602
+        y: 219
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -785,10 +785,10 @@ TextureImporter:
       name: miscellaneous_32
       rect:
         serializedVersion: 2
-        x: 64
-        y: 252
-        width: 32
-        height: 32
+        x: 645
+        y: 219
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -806,10 +806,10 @@ TextureImporter:
       name: miscellaneous_33
       rect:
         serializedVersion: 2
-        x: 96
-        y: 252
-        width: 32
-        height: 32
+        x: 0
+        y: 176
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -827,10 +827,10 @@ TextureImporter:
       name: miscellaneous_34
       rect:
         serializedVersion: 2
-        x: 128
-        y: 252
-        width: 32
-        height: 32
+        x: 43
+        y: 176
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -848,10 +848,10 @@ TextureImporter:
       name: miscellaneous_35
       rect:
         serializedVersion: 2
-        x: 160
-        y: 252
-        width: 32
-        height: 32
+        x: 86
+        y: 176
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -869,10 +869,10 @@ TextureImporter:
       name: miscellaneous_36
       rect:
         serializedVersion: 2
-        x: 192
-        y: 252
-        width: 32
-        height: 32
+        x: 129
+        y: 176
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -890,10 +890,10 @@ TextureImporter:
       name: miscellaneous_37
       rect:
         serializedVersion: 2
-        x: 224
-        y: 252
-        width: 32
-        height: 32
+        x: 172
+        y: 176
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -911,10 +911,10 @@ TextureImporter:
       name: miscellaneous_38
       rect:
         serializedVersion: 2
-        x: 512
-        y: 252
-        width: 32
-        height: 32
+        x: 215
+        y: 176
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -932,10 +932,10 @@ TextureImporter:
       name: miscellaneous_39
       rect:
         serializedVersion: 2
-        x: 544
-        y: 252
-        width: 32
-        height: 32
+        x: 258
+        y: 176
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -953,10 +953,10 @@ TextureImporter:
       name: miscellaneous_40
       rect:
         serializedVersion: 2
-        x: 576
-        y: 252
-        width: 32
-        height: 32
+        x: 430
+        y: 176
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -974,10 +974,10 @@ TextureImporter:
       name: miscellaneous_41
       rect:
         serializedVersion: 2
-        x: 0
-        y: 220
-        width: 32
-        height: 32
+        x: 473
+        y: 176
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -995,10 +995,10 @@ TextureImporter:
       name: miscellaneous_42
       rect:
         serializedVersion: 2
-        x: 32
-        y: 220
-        width: 32
-        height: 32
+        x: 516
+        y: 176
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1016,10 +1016,10 @@ TextureImporter:
       name: miscellaneous_43
       rect:
         serializedVersion: 2
-        x: 64
-        y: 220
-        width: 32
-        height: 32
+        x: 559
+        y: 176
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1037,10 +1037,10 @@ TextureImporter:
       name: miscellaneous_44
       rect:
         serializedVersion: 2
-        x: 96
-        y: 220
-        width: 32
-        height: 32
+        x: 602
+        y: 176
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1058,10 +1058,10 @@ TextureImporter:
       name: miscellaneous_45
       rect:
         serializedVersion: 2
-        x: 160
-        y: 220
-        width: 32
-        height: 32
+        x: 645
+        y: 176
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1079,10 +1079,10 @@ TextureImporter:
       name: miscellaneous_46
       rect:
         serializedVersion: 2
-        x: 192
-        y: 220
-        width: 32
-        height: 32
+        x: 0
+        y: 133
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1100,10 +1100,10 @@ TextureImporter:
       name: miscellaneous_47
       rect:
         serializedVersion: 2
-        x: 224
-        y: 220
-        width: 32
-        height: 32
+        x: 43
+        y: 133
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1121,10 +1121,10 @@ TextureImporter:
       name: miscellaneous_48
       rect:
         serializedVersion: 2
-        x: 480
-        y: 220
-        width: 32
-        height: 32
+        x: 86
+        y: 133
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1142,10 +1142,10 @@ TextureImporter:
       name: miscellaneous_49
       rect:
         serializedVersion: 2
-        x: 512
-        y: 220
-        width: 32
-        height: 32
+        x: 129
+        y: 133
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1163,10 +1163,10 @@ TextureImporter:
       name: miscellaneous_50
       rect:
         serializedVersion: 2
-        x: 544
-        y: 220
-        width: 32
-        height: 32
+        x: 172
+        y: 133
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1184,10 +1184,10 @@ TextureImporter:
       name: miscellaneous_51
       rect:
         serializedVersion: 2
-        x: 576
-        y: 220
-        width: 32
-        height: 32
+        x: 215
+        y: 133
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1205,10 +1205,10 @@ TextureImporter:
       name: miscellaneous_52
       rect:
         serializedVersion: 2
-        x: 608
-        y: 220
-        width: 32
-        height: 32
+        x: 258
+        y: 133
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1226,10 +1226,10 @@ TextureImporter:
       name: miscellaneous_53
       rect:
         serializedVersion: 2
-        x: 640
-        y: 220
-        width: 32
-        height: 32
+        x: 301
+        y: 133
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1247,10 +1247,10 @@ TextureImporter:
       name: miscellaneous_54
       rect:
         serializedVersion: 2
-        x: 0
-        y: 188
-        width: 32
-        height: 32
+        x: 344
+        y: 133
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1268,10 +1268,10 @@ TextureImporter:
       name: miscellaneous_55
       rect:
         serializedVersion: 2
-        x: 32
-        y: 188
-        width: 32
-        height: 32
+        x: 430
+        y: 133
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1289,10 +1289,10 @@ TextureImporter:
       name: miscellaneous_56
       rect:
         serializedVersion: 2
-        x: 64
-        y: 188
-        width: 32
-        height: 32
+        x: 473
+        y: 133
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1310,10 +1310,10 @@ TextureImporter:
       name: miscellaneous_57
       rect:
         serializedVersion: 2
-        x: 96
-        y: 188
-        width: 32
-        height: 32
+        x: 516
+        y: 133
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1331,10 +1331,10 @@ TextureImporter:
       name: miscellaneous_58
       rect:
         serializedVersion: 2
-        x: 128
-        y: 188
-        width: 32
-        height: 32
+        x: 559
+        y: 133
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1352,10 +1352,10 @@ TextureImporter:
       name: miscellaneous_59
       rect:
         serializedVersion: 2
-        x: 160
-        y: 188
-        width: 32
-        height: 32
+        x: 602
+        y: 133
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1373,10 +1373,10 @@ TextureImporter:
       name: miscellaneous_60
       rect:
         serializedVersion: 2
-        x: 192
-        y: 188
-        width: 32
-        height: 32
+        x: 645
+        y: 133
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1394,10 +1394,10 @@ TextureImporter:
       name: miscellaneous_61
       rect:
         serializedVersion: 2
-        x: 224
-        y: 188
-        width: 32
-        height: 32
+        x: 43
+        y: 90
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1415,10 +1415,10 @@ TextureImporter:
       name: miscellaneous_62
       rect:
         serializedVersion: 2
-        x: 256
-        y: 188
-        width: 32
-        height: 32
+        x: 86
+        y: 90
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1436,10 +1436,10 @@ TextureImporter:
       name: miscellaneous_63
       rect:
         serializedVersion: 2
-        x: 448
-        y: 188
-        width: 32
-        height: 32
+        x: 129
+        y: 90
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1457,10 +1457,10 @@ TextureImporter:
       name: miscellaneous_64
       rect:
         serializedVersion: 2
-        x: 480
-        y: 188
-        width: 32
-        height: 32
+        x: 344
+        y: 90
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1478,10 +1478,10 @@ TextureImporter:
       name: miscellaneous_65
       rect:
         serializedVersion: 2
-        x: 512
-        y: 188
-        width: 32
-        height: 32
+        x: 387
+        y: 90
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1499,10 +1499,10 @@ TextureImporter:
       name: miscellaneous_66
       rect:
         serializedVersion: 2
-        x: 544
-        y: 188
-        width: 32
-        height: 32
+        x: 430
+        y: 90
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1520,10 +1520,10 @@ TextureImporter:
       name: miscellaneous_67
       rect:
         serializedVersion: 2
-        x: 576
-        y: 188
-        width: 32
-        height: 32
+        x: 473
+        y: 90
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1541,10 +1541,10 @@ TextureImporter:
       name: miscellaneous_68
       rect:
         serializedVersion: 2
-        x: 608
-        y: 188
-        width: 32
-        height: 32
+        x: 516
+        y: 90
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1562,10 +1562,10 @@ TextureImporter:
       name: miscellaneous_69
       rect:
         serializedVersion: 2
-        x: 640
-        y: 188
-        width: 32
-        height: 32
+        x: 559
+        y: 90
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1583,10 +1583,10 @@ TextureImporter:
       name: miscellaneous_70
       rect:
         serializedVersion: 2
-        x: 0
-        y: 156
-        width: 32
-        height: 32
+        x: 602
+        y: 90
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1604,10 +1604,10 @@ TextureImporter:
       name: miscellaneous_71
       rect:
         serializedVersion: 2
-        x: 32
-        y: 156
-        width: 32
-        height: 32
+        x: 645
+        y: 90
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1625,10 +1625,10 @@ TextureImporter:
       name: miscellaneous_72
       rect:
         serializedVersion: 2
-        x: 64
-        y: 156
-        width: 32
-        height: 32
+        x: 0
+        y: 47
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1646,10 +1646,10 @@ TextureImporter:
       name: miscellaneous_73
       rect:
         serializedVersion: 2
-        x: 96
-        y: 156
-        width: 32
-        height: 32
+        x: 43
+        y: 47
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1667,10 +1667,10 @@ TextureImporter:
       name: miscellaneous_74
       rect:
         serializedVersion: 2
-        x: 128
-        y: 156
-        width: 32
-        height: 32
+        x: 86
+        y: 47
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1688,10 +1688,10 @@ TextureImporter:
       name: miscellaneous_75
       rect:
         serializedVersion: 2
-        x: 160
-        y: 156
-        width: 32
-        height: 32
+        x: 129
+        y: 47
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1709,10 +1709,10 @@ TextureImporter:
       name: miscellaneous_76
       rect:
         serializedVersion: 2
-        x: 192
-        y: 156
-        width: 32
-        height: 32
+        x: 172
+        y: 47
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1730,10 +1730,10 @@ TextureImporter:
       name: miscellaneous_77
       rect:
         serializedVersion: 2
-        x: 224
-        y: 156
-        width: 32
-        height: 32
+        x: 215
+        y: 47
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1751,10 +1751,10 @@ TextureImporter:
       name: miscellaneous_78
       rect:
         serializedVersion: 2
-        x: 256
-        y: 156
-        width: 32
-        height: 32
+        x: 258
+        y: 47
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1772,10 +1772,10 @@ TextureImporter:
       name: miscellaneous_79
       rect:
         serializedVersion: 2
-        x: 288
-        y: 156
-        width: 32
-        height: 32
+        x: 301
+        y: 47
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1793,10 +1793,10 @@ TextureImporter:
       name: miscellaneous_80
       rect:
         serializedVersion: 2
-        x: 320
-        y: 156
-        width: 32
-        height: 32
+        x: 344
+        y: 47
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1814,10 +1814,10 @@ TextureImporter:
       name: miscellaneous_81
       rect:
         serializedVersion: 2
-        x: 352
-        y: 156
-        width: 32
-        height: 32
+        x: 387
+        y: 47
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1835,10 +1835,10 @@ TextureImporter:
       name: miscellaneous_82
       rect:
         serializedVersion: 2
-        x: 448
-        y: 156
-        width: 32
-        height: 32
+        x: 430
+        y: 47
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1856,10 +1856,10 @@ TextureImporter:
       name: miscellaneous_83
       rect:
         serializedVersion: 2
-        x: 480
-        y: 156
-        width: 32
-        height: 32
+        x: 516
+        y: 47
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1877,10 +1877,10 @@ TextureImporter:
       name: miscellaneous_84
       rect:
         serializedVersion: 2
-        x: 512
-        y: 156
-        width: 32
-        height: 32
+        x: 559
+        y: 47
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1898,10 +1898,10 @@ TextureImporter:
       name: miscellaneous_85
       rect:
         serializedVersion: 2
-        x: 544
-        y: 156
-        width: 32
-        height: 32
+        x: 602
+        y: 47
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1919,10 +1919,10 @@ TextureImporter:
       name: miscellaneous_86
       rect:
         serializedVersion: 2
-        x: 576
-        y: 156
-        width: 32
-        height: 32
+        x: 43
+        y: 4
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1940,10 +1940,10 @@ TextureImporter:
       name: miscellaneous_87
       rect:
         serializedVersion: 2
-        x: 608
-        y: 156
-        width: 32
-        height: 32
+        x: 86
+        y: 4
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1961,10 +1961,10 @@ TextureImporter:
       name: miscellaneous_88
       rect:
         serializedVersion: 2
-        x: 640
-        y: 156
-        width: 32
-        height: 32
+        x: 129
+        y: 4
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1982,10 +1982,10 @@ TextureImporter:
       name: miscellaneous_89
       rect:
         serializedVersion: 2
-        x: 0
-        y: 124
-        width: 32
-        height: 32
+        x: 258
+        y: 4
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2003,10 +2003,10 @@ TextureImporter:
       name: miscellaneous_90
       rect:
         serializedVersion: 2
-        x: 32
-        y: 124
-        width: 32
-        height: 32
+        x: 301
+        y: 4
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2024,10 +2024,10 @@ TextureImporter:
       name: miscellaneous_91
       rect:
         serializedVersion: 2
-        x: 64
-        y: 124
-        width: 32
-        height: 32
+        x: 344
+        y: 4
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2045,10 +2045,10 @@ TextureImporter:
       name: miscellaneous_92
       rect:
         serializedVersion: 2
-        x: 96
-        y: 124
-        width: 32
-        height: 32
+        x: 387
+        y: 4
+        width: 43
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2058,1035 +2058,6 @@ TextureImporter:
       bones: []
       spriteID: d35e1b3fb272add4fb1092d342b469f5
       internalID: -1751938411
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_93
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 124
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9464c05be6cc9fe40b39722da835b10f
-      internalID: 354290153
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_94
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 124
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5372bd167e0e674479249048b93aa116
-      internalID: 13659310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_95
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 124
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 947fb5380d9f2cb4795e7a85d7c10ec0
-      internalID: 309459779
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_96
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 124
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: efe54f8bac8ab9b4aa4800d98c86441e
-      internalID: -247181482
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_97
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 124
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3873c60d1705e5f44aaf2c28be4ab8e2
-      internalID: -500007847
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_98
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 124
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3fc8359e39855f24f984389deaf9777f
-      internalID: -1704686911
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_99
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 124
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a30455179a983e4ea73812d37d71a00
-      internalID: -2096662830
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_100
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 124
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c167876997134ba42acf4627a3d5f54b
-      internalID: 1830944301
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_101
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 124
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f131e5151f1a354d80dbf98f62d45c1
-      internalID: 467253691
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_102
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 124
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 474bc1df504b8b145aceabdb5bf57a84
-      internalID: -847647459
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_103
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 124
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad6849ffe90686f41958f1d8ea12ee94
-      internalID: 1434642183
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_104
-      rect:
-        serializedVersion: 2
-        x: 544
-        y: 124
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bfb5f94a3384ed545b15bcd907a94dd7
-      internalID: 1767966949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_105
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 124
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 504d577d04f67464591338d24c3f70d4
-      internalID: -1418508420
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_106
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 124
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56b722943ebc66841a43651388ec38d9
-      internalID: 60608951
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_107
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 124
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c365fd854bcab154b8c20db61235504a
-      internalID: 1225033750
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_108
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 92
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8b8bed9c75d1d9043bb5fc1144eefb8f
-      internalID: 440616564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_109
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 92
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b4f485188c3a6f4698b4789a1250836
-      internalID: -2018749559
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_110
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 92
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 44c7f439f25ab394187c9ab8ad86b428
-      internalID: 1961668572
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_111
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 92
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 92d4f4bbb409d7c4ba338eda04d3c106
-      internalID: -1875301431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_112
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 92
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3961699f4ca48ea40b42984bebfe6556
-      internalID: 267885381
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_113
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 92
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef8aba11127d9ad41b091a2caa1a9e32
-      internalID: 398150280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_114
-      rect:
-        serializedVersion: 2
-        x: 544
-        y: 92
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e693c4afa2d83e14d821996afc1e0d77
-      internalID: -539196094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_115
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 92
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7e657c99eeb58e7419f1989fea6e2c7e
-      internalID: -1521621650
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_116
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 92
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c8a45f0fe6658414189b779192c6ea38
-      internalID: -51021722
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_117
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 92
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a1b65800cefb26f43b88e685da65bcee
-      internalID: 478697532
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_118
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 60
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f2a2b7b604c08964bb0017b722fc57d5
-      internalID: 1666854254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_119
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 60
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 24a806f0255f7b841aa57e158c1a6970
-      internalID: 1333832573
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_120
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 60
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b6462f8dc079c345bcfc559368e9767
-      internalID: 1276749660
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_121
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 60
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a1d9ff68dcae40245b588c09ad8ca822
-      internalID: 1722692148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_122
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 60
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3888b10eeeb193a46aef32609f5efc3c
-      internalID: -505409650
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_123
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 60
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 04383ac78d91ba8438807eb2b1c9dc4d
-      internalID: 747413860
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_124
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 60
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c3cba6fdadb73b641a8c9439b4013be5
-      internalID: -482767432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_125
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 60
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 70e7a9be394bbf34d86efa81b7af3764
-      internalID: 1775271962
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_126
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 60
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 297e96a101f05ab4191bb44ba950e2ab
-      internalID: -244637859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_127
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 60
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75ab6bd56c9779b4ea0ecaa7e1760fa1
-      internalID: 1489096357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_128
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 60
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e272077e5d5ab0f4d9b3848f44bab317
-      internalID: 1529254454
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_129
-      rect:
-        serializedVersion: 2
-        x: 416
-        y: 60
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06344e3290dd05f4bb01cf380bece150
-      internalID: -309411162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_130
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 60
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bcf4a99a1f6176243b77a96b4e31b776
-      internalID: 646278389
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_131
-      rect:
-        serializedVersion: 2
-        x: 544
-        y: 60
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ee3f920cde864a46a1c6a92f99415fd
-      internalID: 196971756
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_132
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 60
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6984c13545c22b44e9f3ca73ceb5872f
-      internalID: -1948558144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_133
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 60
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb0cbac8695149e45b993a60b77511e5
-      internalID: 478376091
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_134
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 28
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe4433efc4dc86d4fa3423eebce6fa2a
-      internalID: -1905761705
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_135
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 28
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d8a4e9fc55ad3a40895cf14677c0f7c
-      internalID: -1314671275
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_136
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 28
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a5b4551e02d820141b9c92927b569130
-      internalID: -503662008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_137
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 28
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: deec5433c0232fa42800679ee02bfd72
-      internalID: -1181802135
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_138
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 28
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0baa54983b704534f8b5876286de7895
-      internalID: -1827838688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_139
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 28
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ce600bb0f2d5d040b87010ec136cc6b
-      internalID: 1357526594
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_140
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 28
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 66fc4d5d59eee0948926b0aabb3dd7b5
-      internalID: 2101181952
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: miscellaneous_141
-      rect:
-        serializedVersion: 2
-        x: 416
-        y: 28
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 00de6151ebe56bc409804a0bc379a70a
-      internalID: -1212674174
       vertices: []
       indices: 
       edges: []
@@ -3105,52 +2076,10 @@ TextureImporter:
       miscellaneous_0: 1791158983
       miscellaneous_1: -2079409031
       miscellaneous_10: 1210423784
-      miscellaneous_100: 1830944301
-      miscellaneous_101: 467253691
-      miscellaneous_102: -847647459
-      miscellaneous_103: 1434642183
-      miscellaneous_104: 1767966949
-      miscellaneous_105: -1418508420
-      miscellaneous_106: 60608951
-      miscellaneous_107: 1225033750
-      miscellaneous_108: 440616564
-      miscellaneous_109: -2018749559
       miscellaneous_11: 131700180
-      miscellaneous_110: 1961668572
-      miscellaneous_111: -1875301431
-      miscellaneous_112: 267885381
-      miscellaneous_113: 398150280
-      miscellaneous_114: -539196094
-      miscellaneous_115: -1521621650
-      miscellaneous_116: -51021722
-      miscellaneous_117: 478697532
-      miscellaneous_118: 1666854254
-      miscellaneous_119: 1333832573
       miscellaneous_12: 1637450804
-      miscellaneous_120: 1276749660
-      miscellaneous_121: 1722692148
-      miscellaneous_122: -505409650
-      miscellaneous_123: 747413860
-      miscellaneous_124: -482767432
-      miscellaneous_125: 1775271962
-      miscellaneous_126: -244637859
-      miscellaneous_127: 1489096357
-      miscellaneous_128: 1529254454
-      miscellaneous_129: -309411162
       miscellaneous_13: -1157241321
-      miscellaneous_130: 646278389
-      miscellaneous_131: 196971756
-      miscellaneous_132: -1948558144
-      miscellaneous_133: 478376091
-      miscellaneous_134: -1905761705
-      miscellaneous_135: -1314671275
-      miscellaneous_136: -503662008
-      miscellaneous_137: -1181802135
-      miscellaneous_138: -1827838688
-      miscellaneous_139: 1357526594
       miscellaneous_14: -1520691194
-      miscellaneous_140: 2101181952
-      miscellaneous_141: -1212674174
       miscellaneous_15: 864468714
       miscellaneous_16: -792700849
       miscellaneous_17: 1526691987
@@ -3237,13 +2166,6 @@ TextureImporter:
       miscellaneous_90: 1355400411
       miscellaneous_91: 276257767
       miscellaneous_92: -1751938411
-      miscellaneous_93: 354290153
-      miscellaneous_94: 13659310
-      miscellaneous_95: 309459779
-      miscellaneous_96: -247181482
-      miscellaneous_97: -500007847
-      miscellaneous_98: -1704686911
-      miscellaneous_99: -2096662830
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
