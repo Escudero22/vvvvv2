@@ -11,6 +11,8 @@ TagManager:
   - Empty
   - pinchos
   - NextLevelUp
+  - Tilemap
+  - ReturnLevelDown
   layers:
   - Default
   - TransparentFX

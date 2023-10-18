@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/DeathScene.unity
     guid: b2d041de0f853f04db4b86201915535f
   - enabled: 1
+    path: Assets/Scenes/Pausa.unity
+    guid: e2692eeab33227e4dabf27e2d8c58704
+  - enabled: 1
     path: Assets/Scenes/menu.unity
     guid: 7eb0a1bef5d145441bb04885113e5738
   - enabled: 1

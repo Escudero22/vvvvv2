@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class AnimationCh : MonoBehaviour
 {
@@ -52,7 +53,6 @@ void Update()
         {
             _rb.velocity = Vector2.zero;
             _animator.SetBool("secorre", false);
-
         }
 
         // Verifica si el personaje está en el suelo o el techo para cambiar la gravedad
@@ -62,15 +62,21 @@ void Update()
             if (gravedadInvertida)
             {
                 // Cambiar la gravedad hacia abajo
-                _rb.gravityScale = 5;
+                _rb.gravityScale = 8;
                 _sr.flipY = false;
             }
             else
             {
                 // Cambiar la gravedad hacia arriba
-                _rb.gravityScale = -5;
+                _rb.gravityScale = -8;
                 _sr.flipY = true;
             }
+        }
+        // Detectar la tecla "Escape" para cargar la escena de pausa
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            // Cargar la escena de pausa (asegúrate de que la escena "Pausa" esté en la compilación)
+            SceneManager.LoadScene("Pausa");
         }
     }
 }
