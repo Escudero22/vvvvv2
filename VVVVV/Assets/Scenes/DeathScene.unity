@@ -207,8 +207,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1558149444}
-        m_TargetAssemblyTypeName: EscenaMuerte, Assembly-CSharp
-        m_MethodName: VolverAJugar
+        m_TargetAssemblyTypeName: EscenaMuertes, Assembly-CSharp
+        m_MethodName: VolverAJugarE
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -835,8 +835,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1558149444}
-        m_TargetAssemblyTypeName: EscenaMuerte, Assembly-CSharp
-        m_MethodName: Salir
+        m_TargetAssemblyTypeName: EscenaMuertes, Assembly-CSharp
+        m_MethodName: SalirE
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
