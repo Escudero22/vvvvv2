@@ -6,7 +6,8 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
     public Transform player;
-
+    //public static GameManager gameManager;
+   
     void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("NextLevel"))
@@ -28,6 +29,7 @@ public class GameManager : MonoBehaviour
             //// Imprimir el nombre de la escena actual
             Debug.Log("Nombre de la escena actual: " + SceneManager.GetActiveScene().name);
             DontDestroyOnLoad(gameObject);
+
         }
         if (collision.gameObject.CompareTag("NextLevelUp"))
         {
@@ -54,14 +56,7 @@ public class GameManager : MonoBehaviour
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
 
-            if ((SceneManager.GetActiveScene().buildIndex - 1) == 3)
-            {
-                Debug.Log("objeto destruido");
-                // Si estamos en la escena 1, destruye el objeto jugador
-                Destroy(player.gameObject);
-            }
-            else
-            {
+
                 // Encuentra el objeto Empty en la escena actual y toma su posición
                 GameObject emptyObject = GameObject.Find("Empty2");
                 if (emptyObject != null)
@@ -76,7 +71,7 @@ public class GameManager : MonoBehaviour
                 {
                     Debug.LogError("No se encontró un objeto Empty con el nombre 'Empty' en la escena actual.");
                 }
-            }
+            
             // Gira al jugador en el eje X
             // Encuentra el objeto Empty en la escena actual y toma su posición
         }

@@ -27,7 +27,7 @@ public class AnimationCh : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(_rb.velocity.y);
+        //Debug.Log(_rb.velocity.y);
         //Personaje se mueve a la derecha
         if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
         {
