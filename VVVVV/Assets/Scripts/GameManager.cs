@@ -6,8 +6,15 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
     public Transform player;
-    //public static GameManager gameManager;
-   
+    public static GameManager gameManager;
+
+    //private void Awake()
+    //{
+    //    if (GameManager.gameManager != null && GameManager.gameManager != this)
+    //        Destroy(this.gameObject);
+    //    GameManager.gameManager = this;
+
+    //}
     void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("NextLevel"))
