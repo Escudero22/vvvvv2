@@ -18,10 +18,28 @@ public class SpawnPlayer : MonoBehaviour
         spawnPointEmpty = GameObject.Find("Empty");
         spawnPointEmpty2 = GameObject.Find("Empty2");
 
-        if (NextScene == true ) _transform.position = spawnPointEmpty.transform.position;
+        if (NextScene == true)
+        {
+            Vector3 newPosition = _transform.position;
+            newPosition.x = spawnPointEmpty.transform.position.x;
+            _transform.position = newPosition;
+
+        }
         else _transform.position = spawnPointEmpty2.transform.position;
 
         Debug.Log(NextScene);
+        //if (NextScene == true)
+        //{
+        //    Vector3 newPosition = _transform.position;
+        //    newPosition.y = spawnPointEmpty.transform.position.y;
+        //    _transform.position = newPosition;
+        //}
+        //else
+        //{
+        //    Vector3 newPosition = _transform.position;
+        //    newPosition.y = spawnPointEmpty2.transform.position.y;
+        //    _transform.position = newPosition;
+        //}
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
