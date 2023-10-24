@@ -13,6 +13,7 @@ TagManager:
   - NextLevelUp
   - Tilemap
   - ReturnLevelDown
+  - Empty2
   layers:
   - Default
   - TransparentFX
