@@ -13,8 +13,8 @@ public class CharacterAnimations : MonoBehaviour
     [SerializeField] private LayerMask _groundLayer;
 
     private float _horizontal;
-    private float _speed = 18f;
-    private int _gravity = 12;
+    private float _speed = 15f;
+    private int _gravity = 8;
     private bool _isFacingRight = true;
 
     private void Start()
@@ -55,9 +55,7 @@ public class CharacterAnimations : MonoBehaviour
         if ((_isFacingRight && _horizontal < 0f) || (!_isFacingRight && _horizontal > 0f))
         {
             _isFacingRight = !_isFacingRight;
-            Vector3 localScale = _transform.localScale;
-            localScale.x *= -1f;
-            _transform.localScale = localScale;
+            transform.localScale = new Vector3(-transform.localScale.x, transform.localScale.y, transform.localScale.z);
         }
     }
 }
