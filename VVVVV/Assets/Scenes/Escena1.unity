@@ -211,7 +211,6 @@ GameObject:
   - component: {fileID: 662759670}
   - component: {fileID: 662759669}
   - component: {fileID: 662759668}
-  - component: {fileID: 662759671}
   - component: {fileID: 662759672}
   - component: {fileID: 662759673}
   - component: {fileID: 662759676}
@@ -314,18 +313,6 @@ Transform:
   - {fileID: 1984880768}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &662759671
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 662759667}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: faf4f155cf946ac468417260b10093d0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!50 &662759672
 Rigidbody2D:
   serializedVersion: 4
@@ -440,9 +427,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a211b0769bc43142a41dffd3b78d0fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _transform: {fileID: 662759670}
+  playerTransform: {fileID: 0}
   spawnPointEmpty: {fileID: 1527686323}
-  spawnPointEmpty2: {fileID: 1778991112}
 --- !u!61 &662759679
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20303,7 +20289,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 14.365956
+  orthographic size: 10.498445
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2

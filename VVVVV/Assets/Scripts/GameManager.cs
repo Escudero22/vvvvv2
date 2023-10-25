@@ -40,5 +40,13 @@ public class GameManager : MonoBehaviour
         }
         ////
     }
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            // Cargar la escena de pausa
+            SceneManager.LoadScene("Pausa");
+        }
+    }
 
 }
