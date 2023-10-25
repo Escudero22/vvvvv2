@@ -3,11 +3,17 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class GameManager : MonoBehaviour
+public class GameManager: MonoBehaviour
 {
     public Transform player;
     public static GameManager gameManager;
+    private AudioSource audioSource;
 
+    void Start()
+    {
+        audioSource = GetComponent<AudioSource>();
+        audioSource.Play();
+    }
     private void Awake()
     {
         //    if (GameManager.gameManager != null && GameManager.gameManager != this)
@@ -29,10 +35,10 @@ public class GameManager : MonoBehaviour
         {
 
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-            
+
 
         }
-       
+
 
         if (collision.gameObject.CompareTag("ReturnLevel"))
         {

@@ -25,6 +25,7 @@ public class FlechaMovimiento : MonoBehaviour
         {
             // Volver al jugador a la escena de muerte
             SceneManager.LoadScene("DeathScene");
+            
         }
     }
     void Update()

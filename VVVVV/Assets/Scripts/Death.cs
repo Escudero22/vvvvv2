@@ -9,6 +9,7 @@ public class Death : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             // Cargar la escena de muerte
+
             SceneManager.LoadScene("DeathScene");
         }
     }
