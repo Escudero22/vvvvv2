@@ -3,24 +3,19 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class GameManager: MonoBehaviour
+public class ChangeScene: MonoBehaviour
 {
     public Transform player;
-    public static GameManager gameManager;
-    private AudioSource audioSource;
+    public static ChangeScene instancia;
+    public GameObject gameManager;
 
-    void Start()
-    {
-        audioSource = GetComponent<AudioSource>();
-        audioSource.Play();
-    }
     private void Awake()
     {
         //    if (GameManager.gameManager != null && GameManager.gameManager != this)
         //        Destroy(this.gameObject);
         //    GameManager.gameManager = this;
-        if (GameManager.gameManager == null)
-            GameManager.gameManager = this;
+        if (instancia == null)
+            instancia = this;
         else
         {
             Destroy(this.gameObject);
@@ -51,7 +46,10 @@ public class GameManager: MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             // Cargar la escena de pausa
+          
             SceneManager.LoadScene("Pausa");
+            Destroy(this.gameObject);
+            Destroy(gameManager);
         }
     }
 

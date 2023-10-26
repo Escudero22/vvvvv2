@@ -13,8 +13,8 @@ public class CharacterAnimations : MonoBehaviour
     [SerializeField] private LayerMask _groundLayer;
 
     private float _horizontal;
-    private float _speed = 15f;
-    private int _gravity = 8;
+    private float _speed = 21f;
+    private int _gravity = 18;
     private bool _isFacingRight = true;
 
     private void Start()
@@ -29,7 +29,7 @@ public class CharacterAnimations : MonoBehaviour
         _horizontal = Input.GetAxisRaw("Horizontal");
         Flip();
 
-        if ((Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Joystick1Button0)) && IsGrounded())
+        if ((Input.GetKeyDown(KeyCode.Space)) && IsGrounded())
         {
             _isFacingRight = !_isFacingRight;
             _transform.Rotate(0, 0, 180);

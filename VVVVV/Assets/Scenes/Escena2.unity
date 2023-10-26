@@ -343,7 +343,6 @@ GameObject:
   - component: {fileID: 763309377}
   - component: {fileID: 763309376}
   - component: {fileID: 763309379}
-  - component: {fileID: 763309380}
   m_Layer: 0
   m_Name: pinxos
   m_TagString: pinchos
@@ -1086,18 +1085,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 7
---- !u!114 &763309380
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 763309374}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2107e477968c338479bc4c892b7f975e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1278489465
 GameObject:
   m_ObjectHideFlags: 0

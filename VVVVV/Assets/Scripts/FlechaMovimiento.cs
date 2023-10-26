@@ -21,12 +21,7 @@ public class FlechaMovimiento : MonoBehaviour
         {
             haColisionado = true;
         }
-        else if (collider.CompareTag("Player")) // Colisión con el jugador
-        {
-            // Volver al jugador a la escena de muerte
-            SceneManager.LoadScene("DeathScene");
-            
-        }
+       
     }
     void Update()
     {

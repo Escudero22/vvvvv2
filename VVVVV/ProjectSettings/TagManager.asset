@@ -15,6 +15,7 @@ TagManager:
   - ReturnLevelDown
   - Empty2
   - finalflecha
+  - flecha
   layers:
   - Default
   - TransparentFX
