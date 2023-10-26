@@ -13,8 +13,8 @@ public class CharacterAnimations : MonoBehaviour
     [SerializeField] private LayerMask _groundLayer;
 
     private float _horizontal;
-    private float _speed = 21f;
-    private int _gravity = 18;
+    private float _speed = 18f;
+    private int _gravity = 14;
     private bool _isFacingRight = true;
 
     private void Start()

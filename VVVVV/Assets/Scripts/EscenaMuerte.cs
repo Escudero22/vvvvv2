@@ -18,7 +18,7 @@ public class EscenaMuerte : MonoBehaviour
         Debug.Log("destruido");
 
         // Cargar la escena actual (recargará la misma escena)
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 3);
+        SceneManager.LoadScene("Escena1");
     }
 
     public void Salir()

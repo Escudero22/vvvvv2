@@ -7,7 +7,7 @@ public class Pausa : MonoBehaviour
 {
     public void JugarDeNuevo()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+        SceneManager.LoadScene("Escena1");
     }
     public void Salir()
     {
