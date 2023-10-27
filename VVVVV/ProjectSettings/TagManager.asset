@@ -19,6 +19,7 @@ TagManager:
   - pos2
   - pos1
   - enemigo
+  - ataque
   layers:
   - Default
   - TransparentFX

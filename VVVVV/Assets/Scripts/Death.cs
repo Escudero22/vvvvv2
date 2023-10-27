@@ -16,9 +16,8 @@ public class Death : MonoBehaviour
         if (other.CompareTag("pinchos")|| other.CompareTag("flecha")|| other.CompareTag("enemigo"))
         {
             // Cargar la escena de muerte
-           
-            SceneManager.LoadScene("DeathScene");
             Destroy(this.gameObject);
+            SceneManager.LoadScene("DeathScene");
             Destroy(gameManager);
             _deathSound.Play();
 
