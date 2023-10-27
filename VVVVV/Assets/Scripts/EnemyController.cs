@@ -7,6 +7,7 @@ public class EnemyController : MonoBehaviour
     public Transform pos2; // Punto "pos2"
     private Animator anim;
     private bool movingRight = true;
+    [SerializeField] private AnimationClip _Atack;
     [SerializeField] bool movingRight;
     public AudioSource ataca;
 
@@ -32,7 +33,7 @@ public class EnemyController : MonoBehaviour
     {
         if (other.CompareTag("pos1") || other.CompareTag("pos2"))
         {
-            // Cambia de direcci髇 al tocar "pos1" o "pos2"
+            // Cambia de direcci贸n al tocar "pos1" o "pos2"
             movingRight = !movingRight;
             Flip();
         }
@@ -40,15 +41,15 @@ public class EnemyController : MonoBehaviour
         {
             anim.SetBool("ataca", true);
 
-            //    // Realiza la animaci髇 de ataque
+            //    // Realiza la animaci贸n de ataque
             //    anim.SetTrigger("atacarenemigo");
             ataca.Play();
 
-            //    // Pausa el movimiento durante la animaci髇
+            //    // Pausa el movimiento durante la animaci贸n
             moveSpeed = 0f;
 
-            //    // Luego, reanuda el movimiento despu閟 de un cierto tiempo
-                Invoke("ResumeMovement", _Atack.length); // Cambia el valor 1.5f al tiempo que necesites para la animaci髇 de ataque.
+            //    // Luego, reanuda el movimiento despu茅s de un cierto tiempo
+                Invoke("ResumeMovement", _Atack.length); // Cambia el valor 1.5f al tiempo que necesites para la animaci贸n de ataque.
         }
     }
 
@@ -56,13 +57,13 @@ public class EnemyController : MonoBehaviour
     {
         anim.SetBool("ataca", false);
 
-        // Reanuda el movimiento despu閟 de la animaci髇 de ataque
-        moveSpeed = 33f; // Ajusta la velocidad de movimiento seg鷑 tu juego
+        // Reanuda el movimiento despu茅s de la animaci贸n de ataque
+        moveSpeed = 33f; // Ajusta la velocidad de movimiento seg煤n tu juego
     }
 
     void Flip()
     {
-        // Voltea la escala del enemigo para que mire en la direcci髇 correcta
+        // Voltea la escala del enemigo para que mire en la direcci贸n correcta
         Vector3 scale = transform.localScale;
         scale.x *= -1;
         transform.localScale = scale;

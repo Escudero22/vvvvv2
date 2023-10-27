@@ -11,6 +11,15 @@ TagManager:
   - Empty
   - pinchos
   - NextLevelUp
+  - Tilemap
+  - ReturnLevelDown
+  - Empty2
+  - finalflecha
+  - flecha
+  - pos2
+  - pos1
+  - enemigo
+  - ataque
   layers:
   - Default
   - TransparentFX
@@ -18,7 +27,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
