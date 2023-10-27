@@ -8,7 +8,7 @@ public class EnemyController : MonoBehaviour
     private Animator anim;
     private bool movingRight = true;
     [SerializeField] private AnimationClip _Atack;
-    [SerializeField] bool movingRight;
+
     public AudioSource ataca;
 
 
