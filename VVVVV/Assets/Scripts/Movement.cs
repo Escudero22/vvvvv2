@@ -16,12 +16,15 @@ public class CharacterAnimations : MonoBehaviour
     private float _speed = 18f;
     private int _gravity = 14;
     private bool _isFacingRight = true;
+    private AudioSource _jumpSound; // Agrega una variable para el sonido de salto
 
     private void Start()
     {
         _animator = GetComponent<Animator>();
         _transform = transform;
         _rb.gravityScale = _gravity;
+        // Inicializa el AudioSource
+        _jumpSound = GetComponent<AudioSource>();
     }
 
     private void Update()
@@ -35,6 +38,8 @@ public class CharacterAnimations : MonoBehaviour
             _transform.Rotate(0, 0, 180);
             _gravity *= -1;
             _rb.gravityScale = _gravity;
+            // Reproduce el sonido de salto
+            _jumpSound.Play();
         }
 
         _animator.SetBool("secorre", _horizontal != 0);

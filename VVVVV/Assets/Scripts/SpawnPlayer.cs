@@ -6,6 +6,7 @@ public class SpawnPlayer : MonoBehaviour
     public Transform playerTransform;
     public GameObject spawnPointEmpty;
     bool isNextScene = true;
+    public AudioSource audioSourceToControl;
 
     private void OnLevelWasLoaded(int level)
     {
@@ -16,6 +17,7 @@ public class SpawnPlayer : MonoBehaviour
         Vector3 newPosition = playerTransform.position;
         newPosition.x = spawnPointEmpty.transform.position.x;
         playerTransform.position = newPosition;
+        audioSourceToControl.Play();
 
 
         Debug.Log(isNextScene);
