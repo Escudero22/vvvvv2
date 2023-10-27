@@ -13,7 +13,7 @@ public class Death : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("pinchos")|| other.CompareTag("flecha"))
+        if (other.CompareTag("pinchos")|| other.CompareTag("flecha")|| other.CompareTag("enemigo"))
         {
             // Cargar la escena de muerte
            

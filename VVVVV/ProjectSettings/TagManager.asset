@@ -16,6 +16,9 @@ TagManager:
   - Empty2
   - finalflecha
   - flecha
+  - pos2
+  - pos1
+  - enemigo
   layers:
   - Default
   - TransparentFX
